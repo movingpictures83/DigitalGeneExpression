@@ -1,0 +1,2 @@
+Prefix plugins/DigitalGeneExpression/example/
+Plugin DigitalGeneExpression inputfile abline.pdf.cnts.rds outputfile dgel.rds
